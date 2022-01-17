@@ -1,1 +1,2 @@
-.confidential creds
+/confidential creds
+*.yml
